@@ -1,4 +1,4 @@
-module github.com/fixme_my_friend/hw03_frequency_analysis
+module github.com/wvfenix87/votinov_yury_otus_hw/hw03_frequency_analysis
 
 go 1.16
 
